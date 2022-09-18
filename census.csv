@@ -1,0 +1,783 @@
+city,state,census
+New York , New York,8175133
+Los Angeles , California,3792621
+Chicago , Illinois,2695598
+Houston , Texas,2099451
+Phoenix , Arizona,1445632
+Philadelphia , Pennsylvania,1526006
+San Antonio , Texas,1327407
+San Diego , California,1307402
+Dallas , Texas,1197816
+San Jose , California,945942
+Austin , Texas,790390
+Jacksonville , Florida,821784
+Fort Worth , Texas,741206
+Columbus , Ohio,787033
+Charlotte , North Carolina,731424
+San Francisco , California,805235
+Indianapolis , (balance) Indiana,820445
+Seattle , Washington,608660
+Denver , Colorado,600158
+Washington , District of Columbia,601723
+Boston , Massachusetts,617594
+El Paso , Texas,649121
+Nashville-Davidson metropolitan government (balance),Tennessee,601222
+Detroit , Michigan,713777
+Oklahoma City , Oklahoma,579999
+Portland , Oregon,583776
+Las Vegas , Nevada,583756
+Memphis , Tennessee,646889
+Louisville/Jefferson County metro government (balance) ,Kentucky,597337
+Baltimore , Maryland,620961
+Milwaukee , Wisconsin,594833
+Albuquerque , New Mexico,545852
+Tucson , Arizona,520116
+Fresno , California,494665
+Mesa , Arizona,439041
+Sacramento , California,466488
+Atlanta , Georgia,420003
+Kansas City , Missouri,459787
+Colorado Springs , Colorado,416427
+Omaha , Nebraska,408958
+Raleigh , North Carolina,403892
+Miami , Florida,399457
+Long Beach , California,462257
+Virginia Beach , Virginia,437994
+Oakland , California,390724
+Minneapolis , Minnesota,382578
+Tulsa , Oklahoma,391906
+Tampa , Florida,335709
+Arlington , Texas,365438
+New Orleans , Louisiana,343829
+Wichita , Kansas,382368
+Bakersfield , California,347483
+Cleveland , Ohio,396815
+Aurora , Colorado,325078
+Anaheim , California,336265
+Urban Honolulu CDP ,Hawaii,337256
+Santa Ana , California,324528
+Riverside , California,303871
+Corpus Christi , Texas,305215
+Lexington-Fayette urban county ,Kentucky,295803
+Henderson , Nevada,257729
+Stockton , California,291707
+St. Paul , Minnesota,285068
+Cincinnati , Ohio,296943
+St. Louis , Missouri,319294
+Pittsburgh , Pennsylvania,305704
+Greensboro , North Carolina,269666
+Lincoln , Nebraska,258379
+Anchorage municipality ,Alaska,291826
+Plano , Texas,259841
+Orlando , Florida,238300
+Irvine , California,212375
+Newark , New Jersey,277140
+Durham , North Carolina,228330
+Chula Vista , California,243916
+Toledo , Ohio,287208
+Fort Wayne , Indiana,253691
+St. Petersburg , Florida,244769
+Laredo , Texas,236091
+Jersey City , New Jersey,247597
+Chandler , Arizona,236123
+Madison , Wisconsin,233209
+Lubbock , Texas,229573
+Scottsdale , Arizona,217385
+Reno , Nevada,225221
+Buffalo , New York,261310
+Gilbert, Arizona,208453
+Glendale , Arizona,226721
+North Las Vegas , Nevada,216961
+Winston-Salem , North Carolina,229617
+Chesapeake , Virginia,222209
+Norfolk , Virginia,242803
+Fremont , California,214089
+Garland , Texas,226876
+Irving , Texas,216290
+Hialeah , Florida,224669
+Richmond , Virginia,204214
+Boise City , Idaho,205671
+Spokane , Washington,208916
+Baton Rouge , Louisiana,229493
+Tacoma , Washington,198397
+San Bernardino , California,209924
+Modesto , California,201165
+Fontana , California,196069
+Des Moines , Iowa,203433
+Moreno Valley , California,193365
+Santa Clarita , California,176320
+Fayetteville , North Carolina,200564
+Birmingham , Alabama,212237
+Oxnard , California,197899
+Rochester , New York,210565
+Port St. Lucie , Florida,164603
+Grand Rapids , Michigan,188040
+Huntsville , Alabama,180105
+Salt Lake City , Utah,186440
+Frisco , Texas,116989
+Yonkers , New York,195976
+Amarillo , Texas,190695
+Glendale , California,191719
+Huntington Beach , California,189992
+McKinney , Texas,131117
+Montgomery , Alabama,205764
+Augusta-Richmond County consolidated government (balance) Georgia,Georgia,195844
+Aurora , Illinois,197899
+Akron , Ohio,199110
+Little Rock , Arkansas,193524
+Tempe , Arizona,161719
+Columbus , Georgia,189885
+Overland Park , Kansas,173372
+Grand Prairie , Texas,175396
+Tallahassee , Florida,181376
+Cape Coral , Florida,154305
+Mobile , Alabama,195111
+Knoxville , Tennessee,178874
+Shreveport , Louisiana,199311
+Worcester , Massachusetts,181045
+Ontario , California,163924
+Vancouver , Washington,161791
+Sioux Falls , South Dakota,153888
+Chattanooga , Tennessee,167674
+Brownsville , Texas,175023
+Fort Lauderdale , Florida,165521
+Providence , Rhode Island,178042
+Newport News , Virginia,180719
+Rancho Cucamonga , California,165269
+Santa Rosa , California,167815
+Peoria , Arizona,154065
+Oceanside , California,167086
+Elk Grove , California,153015
+Salem , Oregon,154637
+Pembroke Pines , Florida,154750
+Eugene , Oregon,156185
+Garden Grove , California,170883
+Cary, North Carolina,135234
+Fort Collins , Colorado,143986
+Corona , California,152374
+Springfield , Missouri,159498
+Jackson , Mississippi,173514
+Alexandria , Virginia,139966
+Hayward , California,144186
+Clarksville , Tennessee,132929
+Lakewood , Colorado,142980
+Lancaster , California,156633
+Salinas , California,150441
+Palmdale , California,152750
+Hollywood , Florida,140768
+Springfield , Massachusetts,153060
+Kansas City , Kansas,145786
+Sunnyvale , California,140081
+Pomona , California,149058
+Killeen , Texas,127921
+Escondido , California,143911
+Pasadena , Texas,149043
+Naperville , Illinois,141853
+Bellevue , Washington,122363
+Joliet , Illinois,147433
+Murfreesboro , Tennessee,108755
+Midland , Texas,111147
+Rockford , Illinois,152871
+Paterson , New Jersey,146199
+Savannah , Georgia,136286
+Bridgeport , Connecticut,144229
+Torrance , California,145438
+McAllen , Texas,129877
+Syracuse , New York,145170
+Surprise , Arizona,117517
+Denton , Texas,113383
+Roseville , California,118788
+Thornton , Colorado,118772
+Miramar , Florida,122041
+Pasadena , California,137122
+Mesquite , Texas,139824
+Olathe , Kansas,125872
+Dayton , Ohio,141527
+Carrollton , Texas,119097
+Waco , Texas,124805
+Orange , California,136416
+Fullerton , California,135161
+Charleston , South Carolina,120083
+West Valley City , Utah,129480
+Visalia , California,124442
+Hampton , Virginia,137436
+Gainesville , Florida,124354
+Warren , Michigan,134056
+Coral Springs , Florida,121096
+Cedar Rapids , Iowa,126326
+Round Rock , Texas,99887
+Sterling Heights , Michigan,129699
+Kent , Washington,92411
+Columbia , South Carolina,129272
+Santa Clara , California,116468
+New Haven , Connecticut,129779
+Stamford , Connecticut,122643
+Concord , California,122067
+Elizabeth , New Jersey,124969
+Thousand Oaks , California,126683
+Lafayette , Louisiana,120623
+Simi Valley , California,124237
+Topeka , Kansas,127473
+Norman , Oklahoma,110925
+Fargo , North Dakota,105549
+Wilmington , North Carolina,106476
+Abilene , Texas,117063
+Odessa , Texas,99940
+Columbia , Missouri,108500
+Pearland , Texas,91252
+Victorville , California,115903
+Hartford , Connecticut,124775
+Vallejo , California,115942
+Allentown , Pennsylvania,118032
+Berkeley , California,112580
+Richardson , Texas,99223
+Arvada , Colorado,106433
+Ann Arbor , Michigan,113934
+Rochester , Minnesota,106769
+Cambridge , Massachusetts,105162
+Sugar Land , Texas,78817
+Lansing , Michigan,114297
+Evansville , Indiana,117429
+College Station , Texas,93857
+Fairfield , California,105321
+Clearwater , Florida,107685
+Beaumont , Texas,118296
+Independence , Missouri,116830
+Provo , Utah,112488
+West Jordan , Utah,103712
+Murrieta , California,103466
+Palm Bay , Florida,103190
+El Monte , California,113475
+Carlsbad , California,105328
+North Charleston , South Carolina,97471
+Temecula , California,100097
+Clovis , California,95631
+Springfield , Illinois,116250
+Meridian , Idaho,75092
+Westminster , Colorado,106114
+Costa Mesa , California,109960
+High Point , North Carolina,104371
+Manchester , New Hampshire,109565
+Pueblo , Colorado,106595
+Lakeland , Florida,97422
+Pompano Beach , Florida,99845
+West Palm Beach , Florida,99919
+Antioch , California,102372
+Everett , Washington,103019
+Downey , California,111772
+Lowell , Massachusetts,106519
+Centennial , Colorado,100377
+Elgin , Illinois,108188
+Richmond , California,103701
+Peoria , Illinois,115007
+Broken Arrow , Oklahoma,98850
+Miami Gardens , Florida,107167
+Billings , Montana,104170
+Sandy Springs , Georgia,93853
+Gresham , Oregon,105594
+Lewisville , Texas,95290
+Hillsboro , Oregon,91611
+San Buenaventura (Ventura) , California,106433
+Greeley , Colorado,92889
+Inglewood , California,109673
+Waterbury , Connecticut,110366
+League City , Texas,83560
+Santa Maria , California,99553
+Tyler , Texas,96900
+Davie, Florida,91992
+Daly City , California,101123
+Boulder , Colorado,97385
+Allen , Texas,84246
+West Covina , California,106098
+Sparks , Nevada,90264
+Wichita Falls , Texas,104553
+Green Bay , Wisconsin,104057
+San Mateo , California,97207
+Norwalk , California,105549
+Rialto , California,99171
+Las Cruces , New Mexico,97618
+Chico , California,86187
+El Cajon , California,99478
+Burbank , California,103340
+South Bend , Indiana,101168
+Renton , Washington,90927
+Vista , California,93834
+Davenport , Iowa,99685
+Edinburg , Texas,77100
+Tuscaloosa , Alabama,90468
+Carmel , Indiana,79191
+Spokane Valley , Washington,89755
+San Angelo , Texas,93200
+Vacaville , California,92428
+Bend , Oregon,76639
+Kenosha , Wisconsin,99218
+Boca Raton , Florida,84392
+Lee's Summit , Missouri,91364
+Nampa , Idaho,81557
+Rio Rancho , New Mexico,87521
+South Fulton , Georgia,(X)
+Roanoke , Virginia,97032
+Beaverton , Oregon,89803
+Yuma , Arizona,93064
+Lawrence , Kansas,87643
+Orem , Utah,88328
+Longmont , Colorado,86270
+San Marcos , California,83781
+Albany , New York,97856
+Sandy , Utah,87461
+Concord , North Carolina,79066
+Federal Way , Washington,89306
+Hesperia , California,90173
+Brockton , Massachusetts,93810
+Compton , California,96455
+Flint , Michigan,102434
+Erie , Pennsylvania,101786
+New Bedford , Massachusetts,95072
+Fishers , Indiana,76794
+Sunrise , Florida,84439
+Roswell , Georgia,88346
+Menifee , California,77519
+Tracy , California,82922
+Plantation , Florida,84955
+Quincy , Massachusetts,92271
+Portsmouth , Virginia,95535
+Mission Viejo , California,93305
+Chino , California,77983
+Lynn , Massachusetts,90329
+Edmond , Oklahoma,81405
+Dearborn , Michigan,98153
+Livonia , Michigan,96942
+Yakima , Washington,91067
+South Gate , California,94396
+Greenville , North Carolina,84554
+Lawton , Oklahoma,96867
+Kirkland , Washington,48787
+Asheville , North Carolina,83393
+Deltona , Florida,85182
+Redding , California,89861
+Bellingham , Washington,80885
+Suffolk , Virginia,84585
+Indio , California,76036
+Mount Pleasant, South Carolina,67843
+Carson , California,91714
+Santa Barbara , California,88410
+Conroe , Texas,56207
+Westminster , California,89701
+Santa Monica , California,89736
+New Braunfels , Texas,57740
+Livermore , California,80968
+Palm Coast , Florida,75180
+St. George , Utah,72897
+Fall River , Massachusetts,88857
+Nashua , New Hampshire,86494
+Champaign , Illinois,81055
+Miami Beach , Florida,87779
+Norwalk , Connecticut,85603
+San Leandro , California,84950
+O'Fallon , Missouri,79329
+Newton , Massachusetts,85146
+Reading , Pennsylvania,88082
+Avondale , Arizona,76238
+Fort Smith , Arkansas,86209
+Citrus Heights , California,83301
+Ogden , Utah,82825
+Fayetteville , Arkansas,73580
+Fort Myers , Florida,62298
+Goodyear , Arizona,65275
+Bryan , Texas,76201
+Waukegan , Illinois,89078
+Hawthorne , California,84293
+Redwood City , California,76815
+Hoover , Alabama,81619
+Bloomington , Indiana,80405
+Duluth , Minnesota,86265
+Lake Forest , California,77264
+Hemet , California,78657
+Whittier , California,85331
+Clifton , New Jersey,84136
+Largo , Florida,77648
+Bloomington , Minnesota,82893
+Danbury , Connecticut,80893
+Santa Fe , New Mexico,67947
+Johns Creek , Georgia,76728
+Newport Beach , California,85186
+Kennewick , Washington,73917
+Mission , Texas,77058
+Milpitas , California,66790
+Troy , Michigan,80980
+Chino Hills , California,74799
+Alhambra , California,83089
+Merced , California,78958
+Trenton , New Jersey,84913
+Franklin , Tennessee,62487
+Medford , Oregon,74907
+Melbourne , Florida,76068
+Manteca , California,67096
+Mountain View , California,74066
+Sioux City , Iowa,82684
+Lynchburg , Virginia,75568
+Buena Park , California,80530
+Pleasanton , California,70285
+Longview , Texas,80455
+Westland , Michigan,84094
+Auburn , Washington,70180
+Cranston , Rhode Island,80387
+Somerville , Massachusetts,75754
+Folsom , California,72203
+Springdale , Arkansas,69797
+Deerfield Beach , Florida,75018
+Warwick , Rhode Island,82672
+Cicero, Illinois,83891
+Farmington Hills , Michigan,79740
+Brooklyn Park , Minnesota,75781
+Lawrence , Massachusetts,76377
+Plymouth , Minnesota,70576
+Buckeye , Arizona,50876
+Georgetown , Texas,47400
+Cedar Park , Texas,48937
+Tustin , California,75540
+Lakewood , California,80048
+Perris , California,68386
+Flower Mound, Texas,64669
+Pharr , Texas,70400
+Loveland , Colorado,66859
+Boynton Beach , Florida,68217
+New Rochelle , New York,77062
+Temple , Texas,66102
+Lake Charles , Louisiana,71993
+Jonesboro , Arkansas,67263
+Napa , California,76915
+Parma , Ohio,81601
+Layton , Utah,67311
+Alameda , California,73812
+Warner Robins , Georgia,66588
+Rapid City , South Dakota,67956
+Bloomington , Illinois,76610
+Gastonia , North Carolina,71741
+Baytown , Texas,71802
+Upland , California,73732
+Racine , Wisconsin,78860
+Scranton , Pennsylvania,76089
+South Jordan , Utah,50418
+Bellflower , California,76616
+Kalamazoo , Michigan,74262
+San Ramon , California,72148
+Bethlehem , Pennsylvania,74982
+Wyoming , Michigan,72125
+Hammond , Indiana,80830
+Missoula , Montana,66788
+Missouri City , Texas,67358
+Pasco , Washington,59781
+Baldwin Park , California,75390
+Iowa City , Iowa,67862
+Rancho Cordova , California,64776
+Rock Hill , South Carolina,66154
+Flagstaff , Arizona,65870
+Gary , Indiana,80294
+St. Joseph , Missouri,76780
+Arlington Heights village, Illinois,75101
+Bolingbrook village, Illinois,73366
+Rochester Hills , Michigan,70995
+Framingham , Massachusetts,(X)
+Union City , California,69516
+Appleton , Wisconsin,72623
+Turlock , California,68549
+Camden , New Jersey,77344
+Bismarck , North Dakota,61272
+Evanston , Illinois,74486
+Apple Valley, California,69135
+Schaumburg village, Illinois,74227
+Woodbury , Minnesota,61961
+Kissimmee , Florida,59682
+Southfield , Michigan,71739
+Maple Grove , Minnesota,61567
+Pittsburg , California,63264
+New Britain , Connecticut,73206
+Jacksonville , North Carolina,70145
+Mansfield , Texas,56368
+Waukesha , Wisconsin,70718
+Frederick , Maryland,65239
+Albany , Georgia,77434
+Pawtucket , Rhode Island,71148
+Redmond , Washington,54144
+Lauderhill , Florida,66887
+Lafayette , Indiana,67140
+Gulfport , Mississippi,67793
+Redlands , California,68747
+Weston , Florida,65333
+St. Charles , Missouri,65794
+Decatur , Illinois,76122
+North Port , Florida,57357
+North Richland Hills , Texas,63343
+Greenville , South Carolina,58409
+Bowling Green , Kentucky,58067
+Broomfield , Colorado,55889
+Canton , Ohio,73007
+Marysville , Washington,60020
+Walnut Creek , California,64173
+Wilmington , Delaware,70851
+Camarillo , California,65201
+Lynwood , California,69772
+Lehi , Utah,47407
+Passaic , New Jersey,69781
+Homestead , Florida,60512
+Delray Beach , Florida,60522
+Davis , California,65622
+Lake Elsinore , California,51821
+Daytona Beach , Florida,61005
+Dothan , Alabama,65496
+Rocklin , California,56974
+Eau Claire , Wisconsin,65883
+Rogers , Arkansas,55964
+Castle Rock, Colorado,48231
+St. Cloud , Minnesota,65842
+Bossier City , Louisiana,61315
+Rockville , Maryland,61209
+Muncie , Indiana,70085
+Gaithersburg , Maryland,59933
+Union City , New Jersey,66455
+West Des Moines , Iowa,56609
+South San Francisco , California,63632
+Yorba Linda , California,64234
+Conway , Arkansas,58908
+Lodi , California,62134
+Palatine village, Illinois,68557
+Ankeny , Iowa,45582
+Mount Vernon , New York,67292
+Rowlett , Texas,56199
+Waterloo , Iowa,68406
+Lakeville , Minnesota,55954
+Alpharetta , Georgia,57551
+Jackson , Tennessee,65211
+Yuba City , California,64925
+Oshkosh , Wisconsin,66083
+Victoria , Texas,62592
+Johnson City , Tennessee,63152
+Redondo Beach , California,66748
+Tamarac , Florida,60427
+Laguna Niguel , California,62979
+Eagan , Minnesota,64206
+Kenner , Louisiana,66702
+Auburn , Alabama,53380
+Ames , Iowa,58965
+Portland , Maine,66194
+North Little Rock , Arkansas,62304
+Sammamish , Washington,45780
+Madera , California,61416
+Shawnee , Kansas,62209
+Jupiter, Florida,55156
+Doral , Florida,45704
+Blaine , Minnesota,57186
+Tulare , California,59278
+Youngstown , Ohio,66982
+Wellington village, Florida,56508
+Pflugerville , Texas,46936
+Palo Alto , California,64403
+Schenectady , New York,66135
+Harlingen , Texas,64849
+Bayonne , New Jersey,63024
+Eden Prairie , Minnesota,60797
+Port Orange , Florida,56048
+Dublin , California,46036
+San Marcos , Texas,44894
+Noblesville , Indiana,51969
+Santa Cruz , California,59946
+Janesville , Wisconsin,63575
+San Clemente , California,63522
+Brentwood , California,51481
+East Orange , New Jersey,64270
+Cheyenne , Wyoming,59466
+Eastvale , California,(X)
+Chapel Hill, North Carolina,57233
+Haverhill , Massachusetts,60879
+Lorain , Ohio,64097
+Grand Junction , Colorado,58566
+Springfield , Oregon,59403
+Coon Rapids , Minnesota,61476
+Idaho Falls , Idaho,56813
+North Miami , Florida,58786
+Encinitas , California,59518
+Skokie village, Illinois,64784
+Leander , Texas,26521
+Waltham , Massachusetts,60632
+Council Bluffs , Iowa,62230
+Hamilton , Ohio,62477
+Moore , Oklahoma,55081
+Pico Rivera , California,62942
+Montebello , California,62500
+Millcreek , Utah,(X)
+Sanford , Florida,53570
+National City , California,58582
+Burnsville , Minnesota,60306
+Coconut Creek , Florida,52909
+Lakewood , Washington,58163
+Taylor , Michigan,63131
+Novi , Michigan,55224
+Marietta , Georgia,56579
+Ocala , Florida,56315
+Terre Haute , Indiana,60785
+Woodland , California,55468
+Petaluma , California,57941
+La Habra , California,60239
+Malden , Massachusetts,59450
+Commerce City , Colorado,45913
+Owensboro , Kentucky,57265
+Bristol , Connecticut,60477
+West Allis , Wisconsin,60411
+Taylorsville , Utah,58652
+Utica , New York,62235
+Monterey Park , California,60269
+Bonita Springs , Florida,43914
+Porterville , California,54165
+Greenwood , Indiana,49791
+Bartlett , Tennessee,54613
+Bradenton , Florida,49546
+Vineland , New Jersey,60724
+Pontiac , Michigan,59515
+Meriden , Connecticut,60868
+Gardena , California,58829
+Apex, North Carolina,37476
+Royal Oak , Michigan,57236
+Cupertino , California,58302
+Lancaster , Pennsylvania,59322
+La Mesa , California,57065
+Gilroy , California,48821
+St. Clair Shores , Michigan,59715
+Des Plaines , Illinois,58364
+Springfield , Ohio,60608
+Corvallis , Oregon,54462
+Margate , Florida,53284
+Bowie , Maryland,54727
+Casa Grande , Arizona,48571
+Caldwell , Idaho,46237
+San Rafael , California,57713
+Great Falls , Montana,58505
+Sarasota , Florida,51917
+Richland , Washington,48058
+St. Peters , Missouri,52575
+Hendersonville , Tennessee,51372
+White Plains , New York,56853
+Huntersville, North Carolina,46773
+Santee , California,53413
+Kokomo , Indiana,45468
+Arcadia , California,56364
+Casper , Wyoming,55316
+Dubuque , Iowa,57637
+Orland Park village, Illinois,56767
+Weymouth Town , Massachusetts,53743
+Parker, Colorado,45297
+Palm Beach Gardens , Florida,48452
+Hanford , California,53967
+Huntington Park , California,58114
+Taunton , Massachusetts,55874
+Midwest City , Oklahoma,54371
+Medford , Massachusetts,56173
+Euless , Texas,51277
+Shoreline , Washington,53007
+Smyrna , Georgia,51271
+Pocatello , Idaho,54255
+Valdosta , Georgia,54518
+Carson City Nevada,Nevada,55274
+Lake Havasu City , Arizona,52527
+Grand Forks , North Dakota,52838
+Blue Springs , Missouri,52575
+Southaven , Mississippi,48982
+Tinley Park village, Illinois,56703
+Diamond Bar , California,55544
+New Brunswick , New Jersey,55181
+Lenexa , Kansas,48190
+Brookhaven , Georgia,(X)
+Novato , California,51904
+Tigard , Oregon,48035
+Highland , California,53104
+Fountain Valley , California,55313
+Dearborn Heights , Michigan,57774
+Albany , Oregon,50158
+Grapevine , Texas,46334
+Apple Valley , Minnesota,49084
+Chicopee , Massachusetts,55298
+Hempstead village, New York,53891
+Oak Lawn village, Illinois,56690
+Cathedral City , California,51200
+Bentonville , Arkansas,35301
+Stonecrest , Georgia,(X)
+Kettering , Ohio,56163
+Colton , California,52154
+Anderson , Indiana,56129
+West Haven , Connecticut,55564
+Burlington , North Carolina,49963
+Manhattan , Kansas,52281
+St. Cloud , Florida,35183
+Normal, Illinois,52497
+Decatur , Alabama,55683
+Berwyn , Illinois,56657
+Port Arthur , Texas,53818
+Kingsport , Tennessee,48205
+Minnetonka , Minnesota,49734
+Rosemead , California,53764
+Paramount , California,54098
+Rocky Mount , North Carolina,57477
+Yucaipa , California,51367
+Watsonville , California,51199
+Elyria , Ohio,54533
+Leesburg, Virginia,42616
+Mount Prospect village, Illinois,54167
+Pinellas Park , Florida,49079
+Delano , California,53041
+Bellevue , Nebraska,50137
+West Sacramento , California,48744
+Apopka , Florida,41542
+Palm Desert , California,48445
+Milford , (balance) Connecticut,51271
+Little Elm , Texas,25898
+Revere , Massachusetts,51755
+Peabody , Massachusetts,51251
+Wylie , Texas,41427
+Harrisonburg , Virginia,48914
+DeSoto , Texas,49047
+Pensacola , Florida,51923
+Olympia , Washington,46478
+Edina , Minnesota,47941
+Wheaton , Illinois,52894
+West New York, New Jersey,49708
+Hoboken , New Jersey,50005
+Lacey , Washington,42393
+Summerville, South Carolina,43392
+Coeur d'Alene , Idaho,44137
+Oak Park village, Illinois,51878
+Elkhart , Indiana,50949
+Maricopa , Arizona,43482
+Kentwood , Michigan,48707
+Madison , Alabama,42938
+Smyrna, Tennessee,39974
+Glendora , California,50073
+Logan , Utah,48174
+Burien , Washington,33313
+Perth Amboy , New Jersey,50814
+Herriman , Utah,21785
+Grand Island , Nebraska,48520
+Placentia , California,50533
+La Crosse , Wisconsin,51320
+Battle Creek , Michigan,52347
+Beaumont , California,36877
+Collierville, Tennessee,43965
+West Lafayette , Indiana,29596
+Florissant , Missouri,52158
+Hoffman Estates village, Illinois,51895
+Joplin , Missouri,50150
+Queen Creek, Arizona,26361
+Aliso Viejo , California,47823
+Kannapolis , North Carolina,42625
+Methuen Town , Massachusetts,47255
+Galveston , Texas,47743
+Mishawaka , Indiana,48252
+Plainfield , New Jersey,49808
+Newark , Ohio,47573
+Stillwater , Oklahoma,45688
+Twin Falls , Idaho,44125
+Texas City , Texas,45099
+Cerritos , California,49041
+Coral Gables , Florida,46780
+Enid , Oklahoma,49379
+Lakewood , Ohio,52131
+Troy , New York,50129
